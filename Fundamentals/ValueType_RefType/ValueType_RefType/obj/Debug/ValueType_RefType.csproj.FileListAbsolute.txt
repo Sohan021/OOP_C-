@@ -1,0 +1,6 @@
+F:\Study\Work\OOP_C#\Fundamentals\ValueType_RefType\ValueType_RefType\bin\Debug\ValueType_RefType.exe.config
+F:\Study\Work\OOP_C#\Fundamentals\ValueType_RefType\ValueType_RefType\bin\Debug\ValueType_RefType.exe
+F:\Study\Work\OOP_C#\Fundamentals\ValueType_RefType\ValueType_RefType\bin\Debug\ValueType_RefType.pdb
+F:\Study\Work\OOP_C#\Fundamentals\ValueType_RefType\ValueType_RefType\obj\Debug\ValueType_RefType.csproj.CoreCompileInputs.cache
+F:\Study\Work\OOP_C#\Fundamentals\ValueType_RefType\ValueType_RefType\obj\Debug\ValueType_RefType.exe
+F:\Study\Work\OOP_C#\Fundamentals\ValueType_RefType\ValueType_RefType\obj\Debug\ValueType_RefType.pdb

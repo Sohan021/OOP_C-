@@ -1,0 +1,7 @@
+F:\Study\Work\OOP_C#\Fundamentals\Static_NonStatic\Static_NonStatic\bin\Debug\Static_NonStatic.exe.config
+F:\Study\Work\OOP_C#\Fundamentals\Static_NonStatic\Static_NonStatic\bin\Debug\Static_NonStatic.exe
+F:\Study\Work\OOP_C#\Fundamentals\Static_NonStatic\Static_NonStatic\bin\Debug\Static_NonStatic.pdb
+F:\Study\Work\OOP_C#\Fundamentals\Static_NonStatic\Static_NonStatic\obj\Debug\Static_NonStatic.csprojAssemblyReference.cache
+F:\Study\Work\OOP_C#\Fundamentals\Static_NonStatic\Static_NonStatic\obj\Debug\Static_NonStatic.csproj.CoreCompileInputs.cache
+F:\Study\Work\OOP_C#\Fundamentals\Static_NonStatic\Static_NonStatic\obj\Debug\Static_NonStatic.exe
+F:\Study\Work\OOP_C#\Fundamentals\Static_NonStatic\Static_NonStatic\obj\Debug\Static_NonStatic.pdb

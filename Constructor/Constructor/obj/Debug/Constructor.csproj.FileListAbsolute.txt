@@ -1,0 +1,7 @@
+F:\Study\Work\OOP_C#\Constructor\Constructor\bin\Debug\Constructor.exe.config
+F:\Study\Work\OOP_C#\Constructor\Constructor\bin\Debug\Constructor.exe
+F:\Study\Work\OOP_C#\Constructor\Constructor\bin\Debug\Constructor.pdb
+F:\Study\Work\OOP_C#\Constructor\Constructor\obj\Debug\Constructor.csprojAssemblyReference.cache
+F:\Study\Work\OOP_C#\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+F:\Study\Work\OOP_C#\Constructor\Constructor\obj\Debug\Constructor.exe
+F:\Study\Work\OOP_C#\Constructor\Constructor\obj\Debug\Constructor.pdb
